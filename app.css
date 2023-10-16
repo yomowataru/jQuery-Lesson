@@ -1,5 +1,7 @@
-.box1 {
-  /* display: none; */
+/* 6章まで
+************************************************** */
+/* .box1 {
+  display: none;
   background-color: #ff0000;
   height: 200px;
   width: 200px;
@@ -7,5 +9,33 @@
 
 .box1-ext {
   border: 10px solid black;
+} */
+
+/* 7章から
+************************************************* */
+
+
+/* .box1 {
+  background-color: #ffffff;
+  height: 200px;
+  width: 200px;
+  float: left;
 }
+
+.bg1 {
+  background-color: #ffAAAA;
+}
+
+.bg2 {
+  background-color: #FFBBBB;
+}
+
+.bg3 {
+  background-color: #ffCCCC;
+}
+
+.bg4 {
+  background-color: #ffDDDD;
+} */
+
 
